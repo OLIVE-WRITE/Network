@@ -28,6 +28,3 @@
 * Utilize heaps of models.
 
 * Accumulate input from clients!
-* reformation and activation ,
-* adiquate information 
-* pure act
